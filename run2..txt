@@ -1,4 +1,4 @@
-tiger
+whisper tiger
 
 void SimpleFunc(void)
 {
